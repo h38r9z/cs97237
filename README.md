@@ -1,1 +1,30 @@
-# cs97237
+java c
+ECON 400: MACROECONOMICS FOR MONEY, BANKING AND FINANCE - 2024-2025 
+COURSE AIMS  OBJECTIVES, KEY SKILLS, AND LEARNING OUTCOMES The course introduces state-of-the-art methods used in current macroeconomic research to   understand short-run   business cycle and inflation dynamics, as well as economic stabilisation   policies.   We   will   develop   a   broad   and   deep   knowledge   of   modern   Dynamic   Stochastic   General   Equilibrium   (DSGE)   macroeconomic   models   that   employ   microeconomic   foundations   and   rational   expectations.   These models   will be solved using advanced analytical   and numerical-computational    approaches.   More specifically, we will use   the DSGE neoclassical   Real   Business Cycle (RBC) and   New   Keynesian (NK)   frameworks to   understand the   different   sources of aggregate economic fluctuations,   and   to   examine   the effects and roles of fiscal and monetary policies.   Finally, the course examines contemporary   issues   such   as   financial   frictions,   government   debt   financing   through   distortionary   taxation,   and   liquidity   traps.
+Upon successful completion of this   module, students   should   be   able to:Analyse   problems   by   identifying   appropriate   economic   models   and   select   the   appropriate
+techniques to solve those   problems.
+Understand          the             importance          of             micro-foundations             and             rational          expectations             in   macroeconomic analysis.
+Understand the   role of central   banks and governments   in   periods   of   economic   uncertainty.
+Use programming techniques to simulate and analyse Dynamic Stochastic General Equilibrium   (DSGE)   models.   Seewww.dynare.orgfor   the   programing   software   that   runs   on   MATLAB   and that   is   used to simulate   DSGE   models.
+Use   rigorous economic arguments to justify   policy conclusions.You should strike a   balance between   reading the   main textbooks and the journal articles   listed   below,   and critically evaluate   how these fit   into the   body of   knowledge on   the   subject.   Performing   exercises,   completing   the    coursework,      attending    (watching)    lectures    and    workshops,    revising,      and    working   consistently throughout the year   are vital for succeeding   in   this   module   (and   any   module   as   a   matter   of   fact).ECON    400    provides    a    solid    foundation    for    a      macroeconomics      dissertation,    further      postgraduate   studies    in    economics,    and    advanced    research    projects    in    academia,    economic    think-tanks,    policy   institutions, and central   banks.
+COURSE STRUCTURE 
+There are overall 20 hours of lectures and overall   10   hours of workshops / lab sessions throughout the Michaelmas   (First)   Term.   We   will   also   have   online   QA   sessions.   See Online Timetabling for   more information.
+FINAL MARKING INFORMATION 
+This   course    is   assessed    by    means    of   formal    examinati代 写ECON 400: MACROECONOMICS FOR MONEY, BANKING AND FINANCE - 2024-2025Matlab
+代做程序编程语言on   and   coursework.   The   final    mark   for   the
+module   is calculated   as: 33%   Coursework +   67%   Final   Exam.
+COURSEWORK AND FINAL EXAM The coursework assessment for this module comprises of one compulsory assignment that will involve   applying both the theoretical and computational methods taught throughout the lectures, workshops   and   labs. There   is   a non-binding word   limit   of   2,000 words.   Note that   while   it   is   important   to   try   and   follow the word count, we will not penalize your work if you are   under or over the limit (within   reason   of   course).   The   assignment   will   be   evaluated   based   on   its'   quality   and   not   on   its'   length.   Therefore,   focus    on    answering    the      questions      properly       by      using      the      technical      tools      learnt      in      the       lectures,   workshops    and    labs,    and    by    employing    solid    economic    intuition    and      references    to    support    your   answers.   The   assignment   will   be   uploaded   on   Moodle   by   the   end   of   Week   5   while   the   submission   deadline   is set for   Week   10.The final   exam   normally takes   place   in January. The exam   assessment   consists of   overall   3   questions.   Students are   required to answer any 2 out   of the   3   questions. All   questions   are   equally   weighted. You   should   not   submit   answers   to   more   than   the   required   number   of   questions.   If   you   do,   we   will   mark   the   questions   in the order that they appear,   up to the   required   number of   questions   in   each   section.Please    note    that    previous    exam    papers    may      not      have    operated      under    the    same    exam      rubric or   assessment   weightings   as   those   for the   current   academic   year. The   content   of   past   papers   may   also   be   different.
+FEEDBACK ON COURSEWORK AND FINAL EXAM 
+The   coursework   and   final   exams   will   be   marked   and   returned   to   students   with   feedback   comments
+within 4 weeks of the coursework   submission   deadline / final   exam   date.
+MARKING CRITERIA AND PENALTIES PLEASE   NOTE:   Work   submitted   up to three   days   late   with   no   agreed   extension will   receive   a   penalty   of   10%.   Work   submitted   more   than   three   days   late   will   receive   a   mark   of   0   (zero).   The   definition   of   ‘days   late’   includes   weekend   days;   deadlines   will   normally   be   set   such   that   the   third   day   does   not   occur at a weekend.   If the third day   falls   on   a   weekend,   students   will   have   until   10.00   am   on   Monday   to   hand   in   without   receiving   a   further   penalty.   Extensions   will   be   given   only   in the   most   exceptional   of   circumstances.   Marking   criteria   can   be   found   in   the    MBF    Postgraduate    Handbook   on   the    MBF   programme   Moodle   page.
+
+
+
+
+
+
+
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
